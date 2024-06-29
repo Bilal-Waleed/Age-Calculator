@@ -19,7 +19,7 @@ h2 {
 }
 
 .container {
-    margin-top: 40px;
+    margin-top: 60px;
     width: 400px;
     display: flex;
     justify-content: center;
@@ -75,7 +75,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     position: relative;
-    bottom: -120px;
+    bottom: -110px;
     width: 100%;
 }
 .social
@@ -114,7 +114,7 @@ footer {
     }   
 
     .container {
-        margin-top: 20px;
+        margin-top: 60px;
         width: 90%;
         padding: 20px;
     }
